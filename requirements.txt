@@ -1,0 +1,12 @@
+natasha==1.6.0
+pandas==2.2.2
+streamlit==1.33.0
+torch==2.1.1
+transformers==4.37.2
+IPython
+io
+numpy
+watchdog
+matplotlib
+plotly
+git+https://huggingface.co/kontur-ai/sbert_punc_case_ru
