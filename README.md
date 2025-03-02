@@ -1,5 +1,5 @@
 
-```markdown
+
 # Анализ Качества Работы Менеджеров по Продажам с Помощью ИИ
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/)
